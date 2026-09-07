@@ -1,7 +1,7 @@
 export const name = ["ԱՇՈՏ", "ԼԱՐԻՍԱ"];
 export const date = "10/03/2026";
 
-export const dateTimeBox: any = new Date("2026-10-03T11:00:00");
+export const dateTimeBox: any = new Date("2027-10-03T11:00:00");
 
 export const calendar: any = [
   ["Հինգշաբթի", "Ուրբաթ", "Շաբաթ"],
