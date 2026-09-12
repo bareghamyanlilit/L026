@@ -23,7 +23,7 @@ export function Home() {
           className="fixed z-10 p-1  rounded-2xl bg-[#fffdfb2f]  right-7 top-7 w-15  h-15 flex justify-center items-center"
         >
           <Image
-            src="/musiconnn.png"
+            src="/musicon.jpg"
             alt="icon1"
             width={500}
             height={500}
