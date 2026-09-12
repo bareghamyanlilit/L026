@@ -25,8 +25,8 @@ export function Home() {
           <Image
             src="/musicon.jpg"
             alt="icon1"
-            width={500}
-            height={500}
+            width={50}
+            height={50}
             className=" w-full p-2 object-contain "
           />
         </button>
